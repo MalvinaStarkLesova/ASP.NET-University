@@ -1,0 +1,11 @@
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\bin\Debug\netcoreapp2.0\CRUDApp.deps.json
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\bin\Debug\netcoreapp2.0\CRUDApp.runtimeconfig.json
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\bin\Debug\netcoreapp2.0\CRUDApp.runtimeconfig.dev.json
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\bin\Debug\netcoreapp2.0\CRUDApp.dll
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\bin\Debug\netcoreapp2.0\CRUDApp.pdb
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\obj\Debug\netcoreapp2.0\CRUDApp.csprojResolveAssemblyReference.cache
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\obj\Debug\netcoreapp2.0\CRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\obj\Debug\netcoreapp2.0\CRUDApp.AssemblyInfoInputs.cache
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\obj\Debug\netcoreapp2.0\CRUDApp.AssemblyInfo.cs
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\obj\Debug\netcoreapp2.0\CRUDApp.dll
+C:\Users\Malvina\source\repos\CRUDApp\CRUDApp\obj\Debug\netcoreapp2.0\CRUDApp.pdb
